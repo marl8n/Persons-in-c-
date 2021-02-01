@@ -1,0 +1,10 @@
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\bin\Debug\Persons.exe.config
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\bin\Debug\Persons.exe
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\bin\Debug\Persons.pdb
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.csprojAssemblyReference.cache
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.MainForm.resources
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.Properties.Resources.resources
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.csproj.GenerateResource.cache
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.csproj.CoreCompileInputs.cache
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.exe
+C:\Users\MIDP9\Dev\csharp\mesoP\1-25\Persons\obj\Debug\Persons.pdb
