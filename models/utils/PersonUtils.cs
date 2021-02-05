@@ -18,12 +18,23 @@ namespace Persons.models.utils
         {
             List<String> normalizedWords = name.Split(' ').ToList();
             normalizedWords.ForEach(word => word.ToLower());
+            normalizedWords.ForEach(word =>
+            {
+                foreach( var letter in word )
+                {
+                    if (!Char.IsLetter(letter))
+                    {
+                        word.Remove(letter);
+                    }
+                }
+            });
             name = "";
             foreach(var word in normalizedWords)
             {
                 var n = char.ToUpper(word[0]) + word.Substring(1);
                 name += " " + n;
             }
+            name.Trim();
             return name;
         }
     }
